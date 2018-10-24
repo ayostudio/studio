@@ -86,7 +86,7 @@ const Index = () => (
             name: 'Bobby Giangeruso',
             role: 'Co-founder, Head of Design',
             desc:
-              'Focusing on product, design and copywritting. Previously building startups and designing for Drop, Microsoft, and Sunrise.',
+              'Focusing on product, design and copywriting. Previously building startups and designing for Drop, Microsoft, and Sunrise.',
           },
           {
             key: 'joe',

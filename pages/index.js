@@ -85,13 +85,15 @@ const Index = () => (
             key: 'bobby',
             name: 'Bobby Giangeruso',
             role: 'Co-founder, Head of Design',
-            desc: 'Designer, previously working from Microsoft, Sunrise and other companies.',
+            desc:
+              'Focusing on product, design and copywritting. Previously building startups and designing for Drop, Microsoft, and Sunrise.',
           },
           {
             key: 'joe',
             name: 'Joseph Smith',
             role: 'Co-founder, Lead Developer',
-            desc: 'Developer, co-founder of TwoCards and Mentor on YouTube',
+            desc:
+              'Full-stack developer, focused on the details. Interested in systems and building tools to help early-staged companies.',
           },
         ]}
       />

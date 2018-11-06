@@ -37,7 +37,7 @@ const Index = () => (
             value: '2 hrs',
           },
           {
-            title: 'Articles / Studies',
+            title: 'Studies',
             value: 'WIP',
           },
           {

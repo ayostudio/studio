@@ -24,6 +24,7 @@ class CustomDocument extends Document {
         <Head>
           <meta charSet="utf-8" />
           <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+          <meta name="google-site-verification" content="9EQDyB1CvC_av-AyUJLYN6O3wc0YoYo4PGBbjcXC16M" />
           <link rel="shortcut icon" href="/static/favicon.ico" />
           {this.props.styleTags}
         </Head>

@@ -72,8 +72,8 @@ const Index = () => (
         {' '}
         <a href="mailto:meetstudioayo@gmail.com">send us an email</a>
         {' briefly explaining what you '}
-        need, we chat a little more, and within 7 days we’ve landed on the right price and have
-        started to build your product.
+        need, we chat a little more, and 7 days later we've landed on the perfect price to 
+        start building your product.
       </P>
 
       <H2 top={80} bottom={20}>
@@ -82,7 +82,7 @@ const Index = () => (
       <P large maxWidth="832px">
         We’re happy to hear! Let’s talk,
         {' '}
-        <a href="mailto:meetstudioayo@gmail.com">meetstudioayo@gmail.com.</a>
+        <a href="mailto:start@ayo.studio">start@ayo.studio.</a>
       </P>
       <Stats
         hasBorder={false}

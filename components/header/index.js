@@ -31,13 +31,13 @@ const Header = ({ navigation, navigationLink }) => (
           {navigation === true && (
             <StyledHeader.Navigation>
               <li>
-                <a href="/">Twitter</a>
+                <a href="https://twitter.com/studioayo" target="_blank">Twitter</a>
               </li>
               <li>
-                <a href="/">Medium</a>
+                <a href="https://medium.com/@studioayo" target="_blank">Medium</a>
               </li>
               <li>
-                <a href="/">hello@ayo.studio</a>
+                <a href="mailto:start@ayo.studio">start@ayo.studio</a>
               </li>
             </StyledHeader.Navigation>
           )}

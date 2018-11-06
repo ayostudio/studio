@@ -11,7 +11,7 @@ const Index = () => (
   <div>
     <Header />
     <Container>
-      <H1 top={350} bottom={140}>
+      <H1 top={360} bottom={140}>
         Hey there, we’re ayo.
       </H1>
       <H2 bottom={20}>We aren’t your typical product team.</H2>
@@ -21,8 +21,8 @@ const Index = () => (
         investors and focus on important tasks outside of the product. We’ll be the perfect duo to
         get your ideas in front of people.
       </P>
-      <H2 bottom={20}>What can Ayo offer?</H2>
-      <P large maxWidth="832px">
+      <H2 top={80} bottom={20}>What can Ayo offer?</H2>
+      <P large maxWidth="832px" bottom={20}>
       In short, we can offer it all. From a napkin idea to launching a beautiful and fully functioning 
       product that’s in the hands of anyone for any device or screen.
       <br />
@@ -73,7 +73,7 @@ const Index = () => (
         Ready to have fun & build something amazing
       </P>
 
-      <H2 top={80} bottom={20}>
+      <H2 top={100} bottom={20}>
         So, how does this work?
       </H2>
       <P large maxWidth="832px">

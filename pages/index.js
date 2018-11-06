@@ -16,10 +16,10 @@ const Index = () => (
       </H1>
       <H2 bottom={20}>We aren’t your typical product team.</H2>
       <P large maxWidth="832px">
-        We don’t have a complex process that you and your team have to learn. We just make ourselves
-        at home with your team and do good work. We understand you have deadlines, have to keep up
-        with investors and focus on other important responsibilities. We’ll worry about assembling
-        the right team for the job.
+        We don’t have a complex process that you have to read about. We just make ourselves at home
+        with your team and do good work. We understand you have deadlines, need to keep up with
+        investors and focus on important tasks outside of the product. We’ll be the perfect duo to
+        get your ideas in front of people.
       </P>
       <Stats
         items={[
@@ -43,19 +43,25 @@ const Index = () => (
           💵
         </span>
         {' '}
-        Recently funded startups & looking for a designer or developer
+        Recently funded startups
         <br />
-        <span role="img" aria-label="calendar">
-          🗓
+        <span role="img" aria-label="hello">
+          👋
+        </span>
+        {' '}
+        Looking for a designer and/or developer
+        <br />
+        <span role="img" aria-label="contract">
+          📝
         </span>
         {' '}
         A minimum 1 month relationship
         <br />
-        <span role="img" aria-label="smile">
-          🙂
+        <span role="img" aria-label="rocket">
+          🚀
         </span>
         {' '}
-        Ready to have fun and build something amazing
+        Ready to have fun & build something amazing
       </P>
 
       <H2 top={80} bottom={20}>
@@ -65,9 +71,9 @@ const Index = () => (
         You’ll
         {' '}
         <a href="mailto:meetstudioayo@gmail.com">send us an email</a>
-        {' briefly explaining what you'}
-        need, we chat a little more and within 7 days we’ve found the right price and have started
-        to build your product.
+        {' briefly explaining what you '}
+        need, we chat a little more, and within 7 days we’ve landed on the right price and have
+        started to build your product.
       </P>
 
       <H2 top={80} bottom={20}>

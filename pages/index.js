@@ -17,19 +17,28 @@ const Index = () => (
       <H2 bottom={20}>We aren’t your typical product team.</H2>
       <P large maxWidth="832px">
         We don’t have a complex process that you have to read about. We just make ourselves at home
-        with your team and do good work. We understand you have deadlines, need to keep up with
+        within your team and do good work. We understand you have deadlines, need to keep up with
         investors and focus on important tasks outside of the product. We’ll be the perfect duo to
         get your ideas in front of people.
+      </P>
+      <H2 bottom={20}>What can Ayo offer?</H2>
+      <P large maxWidth="832px">
+      In short, we can offer it all. From a napkin idea to launching a beautiful and fully functioning 
+      product that’s in the hands of anyone for any device or screen.
+      <br />
+      <br />
+      However, we prefer the crucial moments of early-staged ideas because those matter the most. 
+      Ayo was created to push young companies into the public.
       </P>
       <Stats
         items={[
           {
             title: 'Avg. response time',
-            value: '2hrs',
+            value: '2 hrs',
           },
           {
             title: 'Articles / Studies',
-            value: '0',
+            value: 'WIP',
           },
           {
             title: 'Work availability',

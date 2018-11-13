@@ -101,14 +101,14 @@ const Index = () => (
             name: 'Bobby Giangeruso',
             role: 'Co-founder, Head of Design',
             desc:
-              'Focusing on product, design and copywriting. Previously building startups and designing for Drop, Microsoft, and Sunrise.',
+              'Focused on mental health at Human and advising design at Ayo. In 2014, Bobby spent his time in high school freelancing for startups. After graduating he joined Sunrise which was later acquired by Microsoft. After 2 years, he left to rekindle his passion for startups working for companies like Metalab, Bakken & Bæck, Drop, and Zebra.',
           },
           {
             key: 'joe',
             name: 'Joseph Smith',
             role: 'Co-founder, Lead Developer',
             desc:
-              'Full-stack developer, focused on the details. Interested in systems and building tools to help early-staged companies.',
+              'During college in 2013, Joe launched his first company for educating developers. A year later he began developing for many early-stage startups, which led to launching a studio just outside of London. He’s had the chance to sweat the details for some of the top designed companies like MasterCard, Farewill, Majestic Casual, Drop and Zebra.',
           },
         ]}
       />

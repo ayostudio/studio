@@ -108,7 +108,7 @@ const Index = () => (
             name: 'Joseph Smith',
             role: 'Co-founder, Lead Developer',
             desc:
-              'During college in 2013, Joe launched his first company for educating developers. A year later he began developing for many early-stage startups, which led to launching a studio just outside of London. He’s had the chance to sweat the details for some of the top designed companies like MasterCard, Farewill, Majestic Casual, Drop and Zebra.',
+              'During college in 2013, Joe launched his first company for educating developers. A year later he began developing for many early-stage startups, which led to launching a studio just outside of London. He’s had the chance to sweat the details for some of the top designed companies like MasterCard, Farewill, Majestic Casual, Drop, and Zebra.',
           },
         ]}
       />

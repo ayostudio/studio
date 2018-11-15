@@ -23,8 +23,8 @@ const Index = () => (
       </P>
       <H2 top={80} bottom={20}>What can Ayo offer?</H2>
       <P large maxWidth="832px" bottom={20}>
-      In short, we can offer it all. From a napkin idea to launching a beautiful and fully functioning 
-      product that’s in the hands of anyone for any device or screen.
+      In short, we can offer it all. From a napkin idea to launching a beautiful and fully functioning product 
+      that’s ready for anyone on any device or screen.
       <br />
       <br />
       However, we prefer the crucial moments of early-staged ideas because those matter the most. 
@@ -58,19 +58,19 @@ const Index = () => (
           👋
         </span>
         {' '}
-        Looking for a designer and/or developer
+        Looking for a product team
         <br />
         <span role="img" aria-label="contract">
           📝
         </span>
         {' '}
-        A minimum 1 month relationship
+        Minimum 1 month relationship
         <br />
         <span role="img" aria-label="rocket">
           🚀
         </span>
         {' '}
-        Ready to have fun & build something amazing
+        Passionate & ready to build amazing things
       </P>
 
       <H2 top={100} bottom={20}>
@@ -99,9 +99,9 @@ const Index = () => (
           {
             key: 'bobby',
             name: 'Bobby Giangeruso',
-            role: 'Co-founder, Head of Design',
+            role: 'Co-founder, Design Advisor',
             desc:
-              'Focused on mental health at Human and advising design at Ayo. In 2014, Bobby spent his time in high school freelancing for startups. After graduating he joined Sunrise which was later acquired by Microsoft. After 2 years, he left to rekindle his passion for startups working for companies like Metalab, Bakken & Bæck, Drop, and Zebra.',
+              'Focused on mental health at Human and advising design at Ayo. In 2014, Bobby spent his time in high school freelancing for startups around the world. After graduating he joined Sunrise which was later acquired by Microsoft. 2 years later, he left to rekindle his passion for startups working for companies like Metalab, Bakken & Bæck, Drop, and Zebra.',
           },
           {
             key: 'joe',
@@ -113,7 +113,9 @@ const Index = () => (
         ]}
       />
     </Container>
-    <Header />
+    <Container bottom={40}>
+      <Header />
+    </Container>
   </div>
 );
 

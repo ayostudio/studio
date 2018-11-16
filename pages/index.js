@@ -113,9 +113,7 @@ const Index = () => (
         ]}
       />
     </Container>
-    <Container bottom={40}>
-      <Header />
-    </Container>
+    <Header bottom={40} />
   </div>
 );
 

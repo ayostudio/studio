@@ -21,14 +21,16 @@ const Index = () => (
         investors and focus on important tasks outside of the product. We’ll be the perfect duo to
         get your ideas in front of people.
       </P>
-      <H2 top={80} bottom={20}>What can Ayo offer?</H2>
+      <H2 top={80} bottom={20}>
+        What can Ayo offer?
+      </H2>
       <P large maxWidth="832px" bottom={20}>
-      In short, we can offer it all. From a napkin idea to launching a beautiful and fully functioning product 
-      that’s ready for anyone on any device or screen.
-      <br />
-      <br />
-      However, we prefer the crucial moments of early-staged ideas because those matter the most. 
-      Ayo was created to push young companies into the public.
+        In short, we can offer it all. From a napkin idea to launching a beautiful and fully
+        functioning product that’s ready for anyone on any device or screen.
+        <br />
+        <br />
+        However, we prefer the crucial moments of early-staged ideas because those matter the most.
+        Ayo was created to push young companies into the public.
       </P>
       <Stats
         items={[
@@ -70,7 +72,7 @@ const Index = () => (
           🚀
         </span>
         {' '}
-        Passionate & ready to build amazing things
+        Passionate &amp; ready to build amazing things
       </P>
 
       <H2 top={100} bottom={20}>
@@ -81,8 +83,8 @@ const Index = () => (
         {' '}
         <a href="mailto:meetstudioayo@gmail.com">send us an email</a>
         {' briefly explaining what you '}
-        need, we chat a little more, and 7 days later we've landed on the perfect price to 
-        start building your product.
+        {"need, we chat a little more, and 7 days later we've landed on the perfect price to start"}
+        building your product.
       </P>
 
       <H2 top={80} bottom={20}>
@@ -95,6 +97,7 @@ const Index = () => (
       </P>
       <Stats
         hasBorder={false}
+        hasImages
         items={[
           {
             key: 'bobby',
@@ -104,7 +107,7 @@ const Index = () => (
               'Focused on mental health at Human and advising design at Ayo. In 2014, Bobby spent his time in high school freelancing for startups around the world. After graduating he joined Sunrise which was later acquired by Microsoft. 2 years later, he left to rekindle his passion for startups working for companies like Metalab, Bakken & Bæck, Drop, and Zebra.',
           },
           {
-            key: 'joe',
+            key: 'joseph',
             name: 'Joseph Smith',
             role: 'Co-founder, Lead Developer',
             desc:

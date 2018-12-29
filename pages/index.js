@@ -81,7 +81,7 @@ const Index = () => (
       <P large maxWidth="832px">
         You’ll
         {' '}
-        <a href="mailto:meetstudioayo@gmail.com">send us an email</a>
+        <a href="mailto:start@ayo.studio">send us an email</a>
         {' briefly explaining what you '}
         {"need, we chat a little more, and 7 days later we've landed on the perfect price to start"}
         building your product.

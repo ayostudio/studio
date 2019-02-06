@@ -6,7 +6,7 @@ export default {
     gray: '#434549',
     dark: '#041755',
     darkest: '#1C1C1C',
-    primary: '#FFE44A',
+    primary: '#FCD67F',
   },
   breakpoints: {
     tablet: 770,
